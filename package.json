@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Roman",
   "license": "ISC",
-  "dependencies": {"express": "^4.17.1"}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

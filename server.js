@@ -1,7 +1,7 @@
 // Load express package and create our app
 var express = require('express');
 var app = express();
-const PORT = precess.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 
 // Set port based on enviroment
 var port = PORT;

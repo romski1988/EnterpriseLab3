@@ -34,5 +34,5 @@ adminRouter.get('/posts', function(res, req){
 app.use('/admin', adminRouter);
 
 // Start Server
-app.listen(PORT);
-console.log('Express Server running at http://127.0.0.1:'.PORT);
+//app.listen(PORT);
+//console.log('Express Server running at http://127.0.0.1:'.PORT);
